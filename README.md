@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am third-year Computer Engineering student with a<br> passion for web development, skilled in HTML, CSS and<br> JavaScript. Eager in building responsive<br> websites and developing innovative web applications.<br> Dedicated to continuously learning and applying new<br> technologies in the field.
+I am Final-Year Computer Engineering student with a<br> passion for web development, skilled in HTML, CSS, <br> JavaScript and MERN. Eager in building responsive<br> websites and developing innovative web applications.<br> Dedicated to continuously learning and applying new<br> technologies in the field.
 
 
 ## 🌐 Socials:
