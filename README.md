@@ -10,12 +10,12 @@
 
 ##  About Me
 
- **Final-year Computer Engineering student** with an unwavering passion for crafting digital experiences that matter  
- **Full-Stack Developer** specializing in the **MERN ecosystem** (MongoDB, Express.js, React, Node.js)  
- I believe in the perfect marriage of **functionality and aesthetics** - building applications that not only work flawlessly but also captivate users  
- **Innovation-driven**: I thrive on transforming complex ideas into intuitive, scalable digital solutions  
- **Growth mindset**: Constantly evolving with the tech landscape, embracing new frameworks and methodologies  
- **Impact-focused**: Every line of code I write aims to solve real-world problems and enhance user experiences  
+ **Final-year Computer Engineering student** with an unwavering passion for crafting digital experiences that matter. 
+ **Full-Stack Developer** specializing in the **MERN ecosystem** (MongoDB, Express.js, React, Node.js).  
+ I believe in the perfect marriage of **functionality and aesthetics** - building applications that not only work flawlessly but also captivate users.  
+ **Innovation-driven**: I thrive on transforming complex ideas into intuitive, scalable digital solutions.  
+ **Growth mindset**: Constantly evolving with the tech landscape, embracing new frameworks and methodologies.  
+ **Impact-focused**: Every line of code I write aims to solve real-world problems and enhance user experiences.  
 
 ---
 
