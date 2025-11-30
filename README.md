@@ -117,21 +117,27 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
-
 ---
 
 ##  GitHub Analytics
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohataseem89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true" />
 
-</div>
+### **Performance Overview**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+### **Coding Consistency**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true)
+
+### **Language Distribution**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 ---
 
+##  Featured Contributions
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mohataseem89&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
