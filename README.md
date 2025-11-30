@@ -1,21 +1,22 @@
-#  Hi there, I'm Mohataseem Khan! 
+# Hi there, I'm Mohataseem Khan! 
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Computer+Engineering+Student;Passionate+Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Machine+Learning+Enthusiast;Computer+Engineering+Student;Passionate+Problem+Solver)
 
 </div>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
- **Final-year Computer Engineering student** with an unwavering passion for crafting digital experiences that matter.  
- **Full-Stack Developer** specializing in the **MERN ecosystem** (MongoDB, Express.js, React, Node.js).  
- I believe in the perfect marriage of **functionality and aesthetics** - building applications that not only work flawlessly but also captivate users.  
- **Innovation-driven**: I thrive on transforming complex ideas into intuitive, scalable digital solutions.  
- **Growth mindset**: Constantly evolving with the tech landscape, embracing new frameworks and methodologies.  
- **Impact-focused**: Every line of code I write aims to solve real-world problems and enhance user experiences.  
+🎓 **Final-year Computer Engineering student** with an unwavering passion for crafting digital experiences that matter.  
+💻 **Full-Stack Developer** specializing in the **MERN ecosystem** (MongoDB, Express.js, React, Node.js).  
+🤖 **Machine Learning Enthusiast** exploring the intersection of AI and web development.  
+✨ I believe in the perfect marriage of **functionality and aesthetics** - building applications that not only work flawlessly but also captivate users.  
+🚀 **Innovation-driven**: I thrive on transforming complex ideas into intuitive, scalable digital solutions.  
+📈 **Growth mindset**: Constantly evolving with the tech landscape, embracing new frameworks and methodologies.  
+🎯 **Impact-focused**: Every line of code I write aims to solve real-world problems and enhance user experiences.  
 
 ---
 
@@ -44,9 +45,18 @@
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### **Machine Learning & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Database & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
