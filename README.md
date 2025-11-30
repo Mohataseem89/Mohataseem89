@@ -1,4 +1,5 @@
-# <div align="center">👋 Welcome to My Digital Universe!</div>
+# <div align="center">#  Hi there, I'm *Mohataseem Khan*!
+</div>
 
 <div align="center">
   
@@ -19,7 +20,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 javascript
@@ -28,7 +29,7 @@ const mohataseem = {
     status: "Final-Year Computer Engineering Student",
     currentFocus: "Building Scalable Full-Stack Applications",
     expertise: ["MERN Stack", "Machine Learning", "Cloud Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
+    funFact: "I debug with console.log() and I'm not ashamed! ",
     lifePhilosophy: "Code is like humor. When you have to explain it, it's bad.",
     currentlyLearning: ["PyTorch", "AWS", "System Design"],
     askMeAbout: ["Web Dev", "ML", "Tech", "Coffee"],
@@ -40,11 +41,11 @@ const mohataseem = {
 
 ### 💡 What Drives Me
 
-🎯 *Vision*: Bridging the gap between cutting-edge technology and real-world impact  
-💻 *Passion*: Crafting pixel-perfect UIs that marry functionality with elegance  
-🤖 *Innovation*: Leveraging ML to build intelligent, data-driven applications  
-🚀 *Mission*: Transforming complex problems into elegant, scalable solutions  
-📚 *Growth*: Constantly evolving, learning, and pushing boundaries  
+ *Vision*: Bridging the gap between cutting-edge technology and real-world impact  
+ *Passion*: Crafting pixel-perfect UIs that marry functionality with elegance  
+ *Innovation*: Leveraging ML to build intelligent, data-driven applications  
+ *Mission*: Transforming complex problems into elegant, scalable solutions  
+ *Growth*: Constantly evolving, learning, and pushing boundaries  
 
 ---
 
@@ -64,7 +65,7 @@ const mohataseem = {
 ## 🛠 Tech Stack & Tools
 
 <details open>
-<summary><b>🎨 Frontend Arsenal</b></summary>
+<summary><b> Frontend Arsenal</b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -81,7 +82,7 @@ const mohataseem = {
 </details>
 
 <details open>
-<summary><b>⚙ Backend Powerhouse</b></summary>
+<summary><b> Backend Powerhouse</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -94,7 +95,7 @@ const mohataseem = {
 </details>
 
 <details open>
-<summary><b>🤖 AI & Data Science</b></summary>
+<summary><b> AI & Data Science</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -116,7 +117,7 @@ const mohataseem = {
 </details>
 
 <details open>
-<summary><b>☁ Cloud & DevOps</b></summary>
+<summary><b> Cloud & DevOps</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -127,7 +128,7 @@ const mohataseem = {
 </details>
 
 <details open>
-<summary><b>🔧 Development Tools</b></summary>
+<summary><b> Development Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -141,7 +142,7 @@ const mohataseem = {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
@@ -160,32 +161,6 @@ const mohataseem = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohataseem89&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Risk Automation Platform](https://github-readme-stats.vercel.app/api/pin/?username=mohataseem89&repo=risk-automation-platform&theme=tokyonight&hide_border=true)](https://github.com/mohataseem89/risk-automation-platform)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohataseem89&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" width="100%">
-</div>
-
----
-
 ## 🎯 Current Focus
 javascript
 while (alive) {
@@ -196,14 +171,6 @@ while (alive) {
 }
 
 
-- 🔭 Working on: *AI-Powered Risk Assessment Platform*
-- 🌱 Learning: *Advanced PyTorch & System Design*
-- 👯 Looking to collaborate on: *Open Source MERN Projects*
-- 💬 Ask me about: *React, Node.js, MongoDB, Machine Learning*
-- ⚡ Fun fact: *I can type faster than I can think!*
-
----
-
 ## 💭 Dev Quote
 
 <div align="center">
@@ -212,21 +179,8 @@ while (alive) {
 
 </div>
 
----
-
-## 🎵 Spotify Playing
 
 <div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s4tf4ux4hv6vbgzfxibgcfs5ja&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=61dafb&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31s4tf4ux4hv6vbgzfxibgcfs5ja&redirect=true)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 Show some ❤ by starring some repositories!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
