@@ -17,13 +17,10 @@
 
 ##  About Me
 
- *Final-year Computer Engineering student* passionate about building meaningful digital products.
- *Full-Stack Developer (MERN)* crafting interactive, scalable, and aesthetic web applications.
- *Machine Learning & Deep Learning Enthusiast*, exploring models, data pipelines, and intelligent systems.
- I believe in combining *functionality + creativity*, transforming ideas into real-world impactful solutions.
-
- *My Philosophy:* Learn. Build. Break. Fix. Repeat.
-
+ *Final-year Computer Engineering student* passionate about building meaningful digital products.<br/>
+ *Full-Stack Developer (MERN)* crafting interactive, scalable, and aesthetic web applications.<br/>
+ *Machine Learning & Deep Learning Enthusiast*, exploring models, data pipelines, and intelligent systems.<br/>
+ I believe in combining *functionality + creativity*, transforming ideas into real-world impactful solutions.<br/>
 ---
 
 
@@ -117,7 +114,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
----
+
 
 ##  GitHub Analytics
 
