@@ -1,7 +1,8 @@
-
+# <div align="center">Hi there, I'm *Mohataseem Khan*!
+</div>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&duration=2200\&pause=800\&color=61DAFB\&center=true\&vCenter=true\&width=800\&lines=Hi+I'm+Mohataseem+Khan;Full+Stack+Developer;MERN+Stack+Specialist;Machine+Learning+Explorer;Building+the+Future+One+Commit+at+a+Time)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&duration=2200\&pause=800\&color=61DAFB\&center=true\&vCenter=true\&width=800\&lines=Full+Stack+Developer;MERN+Stack+Specialist;Machine+Learning+Explorer;Building+the+Future+One+Commit+at+a+Time)
 
 </div>
 
