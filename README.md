@@ -15,12 +15,13 @@
 </div>
 
 ---
-##  About Me
+## About Me
 
- *Final-year Computer Engineering student* passionate about building meaningful digital products.<br/>
- *Full-Stack Developer (MERN)* crafting interactive, scalable, and aesthetic web applications.<br/>
- *Machine Learning & Deep Learning Enthusiast*, exploring models, data pipelines, and intelligent systems.<br/>
- I believe in combining *functionality + creativity*, transforming ideas into real-world impactful solutions.<br/>
+Final-year Computer Engineering student passionate about building meaningful digital products.  
+Full-Stack Developer (MERN) crafting interactive, scalable, and aesthetic web applications.  
+Machine Learning & Deep Learning Enthusiast, exploring models, data pipelines, and intelligent systems.  
+I believe in combining functionality + creativity, transforming ideas into real-world impactful solutions.  
+
 ---
 
 
