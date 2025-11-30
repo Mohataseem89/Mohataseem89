@@ -1,4 +1,4 @@
-# <div align="center">#  Hi there, I'm *Mohataseem Khan*!
+# <div align="center">Hi there, I'm *Mohataseem Khan*!
 </div>
 
 <div align="center">
@@ -7,10 +7,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohataseem89&label=Profile%20Views&color=61dafb&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohataseem89?label=Followers&style=for-the-badge&color=61dafb" alt="followers" />
-</div>
 
 <br/>
 
