@@ -15,15 +15,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </div>
 
----
-
-## About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
----
 
 ##  About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
  *Final-year Computer Engineering student* passionate about building meaningful digital products.
  *Full-Stack Developer (MERN)* crafting interactive, scalable, and aesthetic web applications.
@@ -143,29 +138,3 @@
 
 ---
 
-
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
-
----
-
-<div align="center">
-  
-*"First, solve the problem. Then, write the code." – John Johnson*
-
-Made with ❤ and ☕ by Mohataseem Khan
-
-</div>
