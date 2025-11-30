@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </div>
 
-
+---
 ##  About Me
 
  *Final-year Computer Engineering student* passionate about building meaningful digital products.<br/>
@@ -24,7 +24,7 @@
 ---
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
