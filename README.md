@@ -131,13 +131,13 @@ I believe in combining functionality + creativity, transforming ideas into real-
 
 <div align="center">
 
-### **Performance Overview**
+## **Performance Overview**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
-### **Coding Consistency**
+## **Coding Consistency**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true)
 
-### **Language Distribution**
+## **Language Distribution**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
