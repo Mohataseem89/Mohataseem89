@@ -1,5 +1,3 @@
-# <div align="center">Hi there, I'm *Mohataseem Khan*!
-</div>
 
 <div align="center">
 
@@ -17,8 +15,6 @@
 
 
 ##  About Me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
  *Final-year Computer Engineering student* passionate about building meaningful digital products.
  *Full-Stack Developer (MERN)* crafting interactive, scalable, and aesthetic web applications.
