@@ -1,125 +1,243 @@
-# Hi there, I'm Mohataseem Khan!
+# <div align="center">👋 Welcome to My Digital Universe!</div>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohataseem+Khan+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Machine+Learning+Explorer+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%8C%9F)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohataseem89&label=Profile%20Views&color=61dafb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohataseem89?label=Followers&style=for-the-badge&color=61dafb" alt="followers" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```javascript
+const mohataseem = {
+    pronouns: "He" | "Him",
+    status: "Final-Year Computer Engineering Student",
+    currentFocus: "Building Scalable Full-Stack Applications",
+    expertise: ["MERN Stack", "Machine Learning", "Cloud Architecture"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄",
+    lifePhilosophy: "Code is like humor. When you have to explain it, it's bad.",
+    currentlyLearning: ["PyTorch", "AWS", "System Design"],
+    askMeAbout: ["Web Dev", "ML", "Tech", "Coffee"],
+    reachMe: "mohataseem89@gmail.com"
+};
+```
+
+<br clear="right"/>
+
+### 💡 What Drives Me
+
+🎯 **Vision**: Bridging the gap between cutting-edge technology and real-world impact  
+💻 **Passion**: Crafting pixel-perfect UIs that marry functionality with elegance  
+🤖 **Innovation**: Leveraging ML to build intelligent, data-driven applications  
+🚀 **Mission**: Transforming complex problems into elegant, scalable solutions  
+📚 **Growth**: Constantly evolving, learning, and pushing boundaries  
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=61DAFB\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;ML+Enthusiast;Python+%26+ML)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohataseem-khan) 
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohataseem89@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://mohataseem-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohataseem89)
 
 </div>
 
 ---
 
-## About Me
+## 🛠️ Tech Stack & Tools
 
-**Final-year Computer Engineering student** with an unwavering passion for crafting digital experiences that matter.
-**Full-Stack Developer** specializing in the **MERN ecosystem** (MongoDB, Express.js, React, Node.js).
-I believe in the perfect marriage of **functionality and aesthetics** - building applications that not only work flawlessly but also captivate users.
-**Innovation-driven**: I thrive on transforming complex ideas into intuitive, scalable digital solutions.
-**Growth mindset**: Constantly evolving with the tech landscape, embracing new frameworks and methodologies.
-**Impact-focused**: Every line of code I write aims to solve real-world problems and enhance user experiences.
+<details open>
+<summary><b>🎨 Frontend Arsenal</b></summary>
+<br>
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-## 🌐 Let's Connect
+</details>
 
-<div align="center">
+<details open>
+<summary><b>⚙️ Backend Powerhouse</b></summary>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&label=Connect)](https://linkedin.com/in/mohataseem-khan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white\&label=Contact)](mailto:mohataseem89@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=firefox\&logoColor=white\&label=Explore)](https://mohataseem-portfolio.vercel.app/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</div>
+</details>
 
----
+<details open>
+<summary><b>🤖 AI & Data Science</b></summary>
+<br>
 
-## 🛠️ Technology Arsenal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### **Frontend Development**
+</details>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+<details open>
+<summary><b>🗄️ Database & Storage</b></summary>
+<br>
 
-### **Backend Development**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge\&logo=pm2\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=JSON%20web%20tokens\&logoColor=white)
+</details>
 
-### **Database & Storage**
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Cloud & Deployment**
+</details>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<details open>
+<summary><b>🔧 Development Tools</b></summary>
+<br>
 
-### **UI/UX & Styling**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge\&logo=chakra-ui\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge\&logo=daisyui\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-### **Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-### **Machine Learning & Data Science**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-
-**Interests:** supervised learning, deep learning (PyTorch), data analysis and visualization, model deployment, and applied ML projects.
+</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohataseem89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true" />
 
-### **Performance Overview**
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohataseem89\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=false\&show_icons=true)
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</div>
 
-### **Coding Consistency**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohataseem89&theme=tokyo-night&hide_border=true&area=true" width="100%">
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89\&theme=tokyonight\&hide_border=true)
+---
 
-### **Language Distribution**
+## 🏆 GitHub Trophies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohataseem89&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Risk Automation Platform](https://github-readme-stats.vercel.app/api/pin/?username=mohataseem89&repo=risk-automation-platform&theme=tokyonight&hide_border=true)](https://github.com/mohataseem89/risk-automation-platform)
 
 </div>
 
 ---
 
-## 🏆 Featured Contributions
+## 📈 Contribution Graph
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mohataseem89\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohataseem89&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" width="100%">
+</div>
+
+---
+
+## 🎯 Current Focus
+```javascript
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+```
+
+- 🔭 Working on: **AI-Powered Risk Assessment Platform**
+- 🌱 Learning: **Advanced PyTorch & System Design**
+- 👯 Looking to collaborate on: **Open Source MERN Projects**
+- 💬 Ask me about: **React, Node.js, MongoDB, Machine Learning**
+- ⚡ Fun fact: **I can type faster than I can think!**
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31s4tf4ux4hv6vbgzfxibgcfs5ja&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=61dafb&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31s4tf4ux4hv6vbgzfxibgcfs5ja&redirect=true)
+
+</div>
 
 ---
 
 <div align="center">
+  
+### 🌟 Show some ❤️ by starring some repositories!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=61DAFB\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;ML+Enthusiast;Passionate+Problem+Solver)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
+
+---
+
+<div align="center">
+  
+**"First, solve the problem. Then, write the code." – John Johnson**
+
+Made with ❤️ and ☕ by Mohataseem Khan
 
 </div>
