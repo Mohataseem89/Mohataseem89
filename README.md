@@ -2,10 +2,11 @@
 </div>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohataseem+Khan+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Machine+Learning+Explorer+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%8C%9F)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&duration=2200\&pause=800\&color=61DAFB\&center=true\&vCenter=true\&width=800\&lines=Hi+I'm+Mohataseem+Khan;Full+Stack+Developer;MERN+Stack+Specialist;Machine+Learning+Explorer;Building+the+Future+One+Commit+at+a+Time)
 
 </div>
+
 
 
 <br/>
@@ -19,31 +20,20 @@
 ## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-javascript
-const mohataseem = {
-    pronouns: "He" | "Him",
-    status: "Final-Year Computer Engineering Student",
-    currentFocus: "Building Scalable Full-Stack Applications",
-    expertise: ["MERN Stack", "Machine Learning", "Cloud Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! ",
-    lifePhilosophy: "Code is like humor. When you have to explain it, it's bad.",
-    currentlyLearning: ["PyTorch", "AWS", "System Design"],
-    askMeAbout: ["Web Dev", "ML", "Tech", "Coffee"],
-    reachMe: "mohataseem89@gmail.com"
-};
-
-
-<br clear="right"/>
-
-### 💡 What Drives Me
-
- *Vision*: Bridging the gap between cutting-edge technology and real-world impact  
- *Passion*: Crafting pixel-perfect UIs that marry functionality with elegance  
- *Innovation*: Leveraging ML to build intelligent, data-driven applications  
- *Mission*: Transforming complex problems into elegant, scalable solutions  
- *Growth*: Constantly evolving, learning, and pushing boundaries  
 
 ---
+
+##  About Me
+
+ *Final-year Computer Engineering student* passionate about building meaningful digital products.
+ *Full-Stack Developer (MERN)* crafting interactive, scalable, and aesthetic web applications.
+ *Machine Learning & Deep Learning Enthusiast*, exploring models, data pipelines, and intelligent systems.
+ I believe in combining *functionality + creativity*, transforming ideas into real-world impactful solutions.
+
+ *My Philosophy:* Learn. Build. Break. Fix. Repeat.
+
+---
+
 
 ## 🌐 Connect With Me
 
@@ -151,20 +141,8 @@ const mohataseem = {
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohataseem89&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
-
 ---
 
-## 🎯 Current Focus
-javascript
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
 
 
 ## 💭 Dev Quote
