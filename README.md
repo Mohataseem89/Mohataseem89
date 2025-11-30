@@ -140,12 +140,14 @@ I believe in combining functionality + creativity, transforming ideas into real-
 ### **Language Distribution**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
+
+## **Featured Contributions**
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mohataseem89&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 </div>
 
 ---
 
-##  Featured Contributions
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mohataseem89&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
