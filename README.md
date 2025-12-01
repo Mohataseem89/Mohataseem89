@@ -38,7 +38,7 @@ I believe in combining functionality + creativity, transforming ideas into real-
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 <details open>
 <summary><b> Backend </b></summary>
@@ -67,7 +67,7 @@ I believe in combining functionality + creativity, transforming ideas into real-
 </details>
 
 <details open>
-<summary><b>🗄 Database & Storage</b></summary>
+<summary><b>Database & Storage</b></summary>
 <br>
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
