@@ -32,7 +32,6 @@ I believe in combining functionality + creativity, transforming ideas into real-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohataseem-khan) 
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohataseem89@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://mohataseem-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohataseem89)
 
 </div>
 
