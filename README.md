@@ -136,7 +136,7 @@ I believe in combining functionality + creativity, transforming ideas into real-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true)
 
 ## **Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-my-stats-ten.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## **Featured Contributions**
 
