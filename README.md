@@ -133,7 +133,7 @@ I believe in combining functionality + creativity, transforming ideas into real-
 ![GitHub Stats](https://github-my-stats-ten.vercel.app/api?username=mohataseem89&theme=tokyonight&show_icons=true&hide_border=true)
 
 ## Coding Consistency
-![GitHub Streak](https://streak-stats.demolab.com?user=mohataseem89&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/svg?user=mohataseem89&theme=tokyonight&hide_border=true)
 
 ## Language Distribution
 ![Top Languages](https://github-my-stats-ten.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&layout=compact&hide_border=true)
