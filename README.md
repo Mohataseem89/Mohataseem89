@@ -129,14 +129,14 @@ I believe in combining functionality + creativity, transforming ideas into real-
 
 <div align="center">
 
-## **Performance Overview**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+## Performance Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohataseem89&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&v=1)
 
-## **Coding Consistency**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true)
+## Coding Consistency
+![GitHub Streak](https://streak-stats.demolab.com?user=mohataseem89&theme=tokyonight&hide_border=true)
 
-## **Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&hide_border=true&layout=compact&v=1)
 
 
 
