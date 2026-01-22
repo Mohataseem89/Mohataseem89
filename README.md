@@ -135,13 +135,13 @@ I believe in combining functionality + creativity, transforming ideas into real-
 
 ## Coding Consistency
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohataseem89&theme=tokyonight&hide_border=true)
+
 ## Language Distribution
 ![Top Languages](https://github-my-stats-ten.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&layout=compact&hide_border=true)
 
 ## **Featured Contributions**
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mohataseem89&limit=7&theme=tokyonight&combine_all_yearly_contributions=true)
-
 </div>
 
 ---
