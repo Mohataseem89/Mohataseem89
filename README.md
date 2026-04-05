@@ -126,16 +126,5 @@ I believe in combining functionality + creativity, transforming ideas into real-
 </details>
 
 
-##  GitHub Analytics
-
-<div align="center">
-
-## Performance Overview
-![GitHub Stats](https://github-my-stats-ten.vercel.app/api?username=mohataseem89&theme=tokyonight&show_icons=true&hide_border=true)
-
-
-## Language Distribution
-![Top Languages](https://github-my-stats-ten.vercel.app/api/top-langs/?username=mohataseem89&theme=tokyonight&layout=compact&hide_border=true)
-
 
 ---
