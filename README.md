@@ -128,4 +128,3 @@ I believe in combining functionality + creativity, transforming ideas into real-
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 </details>
----
