@@ -17,10 +17,8 @@
 ---
 ## About Me
 
-Final-year Computer Engineering student passionate about building meaningful digital products.  
-Full-Stack Developer (MERN) crafting interactive, scalable, and aesthetic web applications.  
-Machine Learning & Deep Learning Enthusiast, exploring models, data pipelines, and intelligent systems.  
-I believe in combining functionality + creativity, transforming ideas into real-world impactful solutions.  
+
+Computer Science graduate and Full Stack Developer with a passion for building scalable, user-centric web applications and cloud-native solutions. Skilled in the MERN stack, cloud computing, DevOps, and CI/CD practices, with hands-on experience in AWS, Docker, Kubernetes, and Terraform. Enthusiastic about Machine Learning and continuously exploring intelligent systems to solve real-world problems. I enjoy combining clean architecture, performance, and intuitive user experiences to build impactful software.
 
 ---
 
