@@ -16,9 +16,11 @@
 
 ---
 ## About Me
-
-
-Computer Science graduate and Full Stack Developer with a passion for building scalable, user-centric web applications and cloud-native solutions. Skilled in the MERN stack, cloud computing, DevOps, and CI/CD practices, with hands-on experience in AWS, Docker, Kubernetes, and Terraform. Enthusiastic about Machine Learning and continuously exploring intelligent systems to solve real-world problems. I enjoy combining clean architecture, performance, and intuitive user experiences to build impactful software.
+Computer Science Graduate passionate about building scalable software and cloud-native solutions.  
+Full-Stack Developer (MERN) crafting modern, responsive, and user-centric web applications.  
+Cloud Computing & DevOps Enthusiast, exploring AWS, Docker, Kubernetes, Terraform, and CI/CD practices.  
+Machine Learning Enthusiast, continuously learning intelligent systems and data-driven technologies.  
+I enjoy combining clean architecture, performance, and intuitive design to build impactful real-world software.
 
 ---
 
